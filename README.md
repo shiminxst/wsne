@@ -1,4 +1,4 @@
-Service-GCN
+WSNE
 =====
 
 This repository implements the Service-GCN for Web service network embedding.
