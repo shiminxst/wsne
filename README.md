@@ -7,8 +7,8 @@ This repository implements the Service-GCN for Web service network embedding.
 
 two datasets were used:
 
-- Webservice: Mashup and API services together with their composition links.
-- Wiki: Web page networks.
+- Webservice: The Mashup and API services together with their composition links, crawled from ProgrammableWeb
+- Wiki: The Web page networks between Web pages and their hyperlinks.
 
 ## Requirement
 
