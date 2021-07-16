@@ -28,6 +28,11 @@ To run the clustering task:
 ```sh
 python wsne/service_clustering.py
 ```
+
+## Baseline methods
+
+ [DeepWalk](https://github.com/phanein/deepwalk); [Node2vec](https://github.com/aditya-grover/node2vec); [LINE](https://github.com/tangjianpku/LINE); [RTM](https://github.com/dongwookim-ml/python-topic-model); [PLANE](https://github.com/tuanlvm/PLANE); [TriDNR](https://github.com/GRAND-Lab/TriDNR); [TWSRL](https://github.com/clhchtcjj/BiNE#bine-bipartite-network-embedding); [ARGA](https://github.com/GRAND-Lab/ARGA)
+
 ## Reference
 
 [1] Kipf TN, Welling M. Semi-supervised classification with graph convolutional networks. arXiv preprint arXiv:1609.02907. 2016 Sep 9.
